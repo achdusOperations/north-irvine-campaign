@@ -1,0 +1,20 @@
+/*hero image*/
+.fs-header:before {
+    background-image: 
+   url("https://www.chabadone.org/media/images/1257/Yruw12572028.png");
+   background-size:100% 100%;
+   }
+   @media screen and (max-width: 700px) {
+   .fs-header:before {
+    background-image: 
+   url("https://www.chabadone.org/media/images/1257/hCLV12572029.png");
+   background-size:100% 100%;
+   }
+   }
+   
+   /*logo*/
+   img.fs-logo{
+   content: 
+   url("https://www.chabadone.org/media/images/1257/ZuVD12572027.png");
+   background-size:100% 100%;
+   } 
