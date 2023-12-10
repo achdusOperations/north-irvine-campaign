@@ -58,7 +58,7 @@ background:#1B1B6C;
   
   /*hero writing*/
   span.js-viewport-in.a-delay-200ms, h2.js-viewport-in.a-delay-400ms{
-    color:#1B1B6C
+    color:#1B1B6C;
     font-family: 'Brush Script MT', cursive;
   }
 
@@ -100,7 +100,7 @@ color:#1B1B6C;
     /*secondary title*/
       div.col-md-8.fs-about.js-about.fs-about-main-body > div > h4{
         color:#B5D18C;
-        font-family: 'Brush Script MT', cursive;
+        font-family: "Brush Script MT", cursive;
       }
 
       /*donor listing*/
