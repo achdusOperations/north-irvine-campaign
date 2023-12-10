@@ -57,7 +57,7 @@ background:#1B1B6C;
   }
   
   /*hero writing*/
-  span.js-viewport-in.a-delay-200ms, h2.js-viewport-in.a-delay-400ms{
+  body > div.fs-root.fs-pre-campaign > div > div.jumbotron.fs-header > div > div > h1 > span, h2.js-viewport-in.a-delay-400ms{
     color:#1B1B6C;
     font-family: 'Brush Script MT', cursive !important;
   }
