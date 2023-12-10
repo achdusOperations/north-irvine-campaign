@@ -46,12 +46,12 @@ background:#1B1B6C;
 }
 
 /*buttons*/
-.donate-button .donate-button-text, fs-btn, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+.fs-header-top .fs-top-tools .fs-btn,.donate-button .donate-button-text, fs-btn, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
     background:#B5D18C;
   border-radius: 25px !important;
   color:#1B1B6C;
   }
-  .donate-button .donate-button-text:hover, .fs-btn:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div:hover{
+  .fs-header-top .fs-top-tools .fs-btn:hover,.donate-button .donate-button-text:hover, .fs-btn:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div:hover{
     background: #1B1B6C;
   }
   
