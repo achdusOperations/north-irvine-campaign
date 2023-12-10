@@ -71,7 +71,7 @@ background:#1B1B6C;
 .fs-goal{
 background:#B5D18C ;
 }
-.fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
+.fs-goal .fs-goal-graph-container .fs-goal-graph-text span, body > div.fs-root.fs-pre-campaign > div > div.container-fluid.fs-goal > div > div > div.col-md-6.text-xs-center.text-md-right.fs-goal-text > span > span,.fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
 
 color:#1B1B6C;
 }
