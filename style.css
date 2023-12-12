@@ -6,13 +6,13 @@
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1257/Yruw12572028.png");
+   url("https://www.chabadone.org/media/images/1257/hmAQ12575865.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1257/hCLV12572029.png");
+   url("https://www.chabadone.org/media/images/1257/fUwQ12575869.png");
    background-size:100% 100%;
    }
    }
@@ -57,7 +57,7 @@ background:#1B1B6C;
   }
   
   /*hero writing*/
-  body > div.fs-root.fs-pre-campaign > div > div.jumbotron.fs-header > div > div > h1 > span, h2.js-viewport-in.a-delay-400ms{
+  h1>span.js-viewport-in.a-delay-200ms, h2.js-viewport-in.a-delay-400ms{
     color:#1B1B6C;
     font-family: 'Brush Script MT', cursive !important;
   }
@@ -91,6 +91,26 @@ color:#1B1B6C;
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description {
         color:#6DC2BD
     }
+    /*maximize in countdown*/
+    .fs-countdown h3 strong {
+      color:#F8A147
+  }
+
+
+  /*section next to countdown*/
+
+  .fs-donate {
+    background:#6DC2BD
+}
+
+div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
+    fill:#6DC2BD;
+}
+  /*button*/
+  a.btn.fs-btn.js-action-open-donate{
+    background-color: #1B1B6C;
+    border-radius: 25px !important;
+  }
 
     /*main*/
     /*main title*/
@@ -108,8 +128,8 @@ color:#1B1B6C;
    .fs-partners>div{
     border-top:6px solid #B5D18C;
     }
-    /*"our donors"*/
-   .fs-partners h3 span {
+    /*"our donors" and "thank you to*/
+   .fs-partners h3 span, body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-4.fs-partners.js-partners > div > h3 {
     color:#1B1B6C;
     }
      /*donor tag*/
