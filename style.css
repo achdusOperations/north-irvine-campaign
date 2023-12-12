@@ -58,12 +58,12 @@ background:#1B1B6C;
   /*hero writing*/
   h1>span.js-viewport-in.a-delay-200ms, h2.js-viewport-in.a-delay-400ms{
     color:#1B1B6C;
-    font-family: 'Brush Script MT', cursive !important;
+    /*font-family: 'Brush Script MT', cursive !important;*/
   }
 
   .fs-header .page-header h1 small{
     color:#6DC2BD;
-    font-family: 'Brush Script MT', cursive !important;
+    /*font-family: 'Brush Script MT', cursive !important;*/
   }
 
  /* goal section*/
