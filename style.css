@@ -123,7 +123,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     /*secondary title*/
       div.col-md-8.fs-about.js-about.fs-about-main-body > div > h4{
         color:#B5D18C;
-        font-family: "Brush Script MT", cursive !important;
+        /*font-family: "Brush Script MT", cursive !important;*/
       }
 
       /*donor listing*/
