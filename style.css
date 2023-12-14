@@ -12,7 +12,7 @@
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1257/fUwQ12575869.png");
+   url("https://www.chabadone.org/media/images/1257/NBrQ12578762.png");
    background-size:100% 100%;
    }
    }
@@ -54,6 +54,9 @@ background:#1B1B6C;
   #fs-donate-form .fs-btn-donate:hover, .fs-partners .fs-btn:hover,.fs-header-top .fs-top-tools .fs-btn:hover,.donate-button .donate-button-text:hover, .fs-btn:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected:hover, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div:hover{
     background: #1B1B6C;
   }
+  .donate-button .donate-button-text{
+    font-weight:bold;
+  }
   
   /*hero writing*/
   h1>span.js-viewport-in.a-delay-200ms, h2.js-viewport-in.a-delay-400ms{
@@ -63,6 +66,7 @@ background:#1B1B6C;
 
   .fs-header .page-header h1 small{
     color:#6DC2BD;
+    font-weight: bold;
     /*font-family: 'Brush Script MT', cursive !important;*/
   }
 
