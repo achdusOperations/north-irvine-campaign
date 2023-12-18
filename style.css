@@ -176,6 +176,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
       box-shadow: inset 0 0 0 2px #6DC2BD;
   }
+      /*maximize...*/
+      div.container-fluid.fs-matchers > div > h3 > span{
+        font-weight:bold;
+        color: #1B1B6C;
+    }
   /*tier*/
   .fs-matchers .fs-matcher .fs-matcher-title {
       color:#6DC2BD;
