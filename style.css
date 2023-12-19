@@ -194,3 +194,13 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
   .fs-matchers{
       background: #FFF;
   }
+  .fs-matchers .fs-matcher{
+    margin-right:0px;
+    margin-left:0px;
+    width:33.33%;
+  }
+  @media (max-width: 991px){
+    .fs-matchers .fs-matcher{
+      width:100%;
+    }
+  }
