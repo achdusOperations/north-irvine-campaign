@@ -181,19 +181,12 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         font-weight:bold;
         color: #1B1B6C;
     }
-  /*tier*/
+  /*tier -donors names*/
   .fs-matchers .fs-matcher .fs-matcher-title {
       color:#6DC2BD;
       font-weight: bold;
   }
-  /*details*/
-  .fs-matchers .fs-matcher .fs-matcher-subtitle {
-      color:#1B1B6C;
-  }
-  /*background*/
-  .fs-matchers{
-      background: #FFF;
-  }
+  /*donors names on separate lines. width is 100% divided by amount of matching categories*/
   .fs-matchers .fs-matcher{
     margin-right:0px;
     margin-left:0px;
@@ -204,3 +197,12 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
       width:100%;
     }
   }
+  /*details*/
+  .fs-matchers .fs-matcher .fs-matcher-subtitle {
+      color:#1B1B6C;
+  }
+  /*background*/
+  .fs-matchers{
+      background: #FFF;
+  }
+  
